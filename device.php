@@ -55,7 +55,7 @@ else{
 }
 
 function get_device_model(){
-    return ['name' => 'Raspberry Pi', 'id' => 'raspberry-pi'];
+    return ['name' => 'NanoPi_Duo2', 'id' => 'NanoPi_Duo2'];
 }
 
 function get_info(){
