@@ -40,13 +40,11 @@ require_once(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'device.php');
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a target="_blank" href="https://shumeipai.nxez.com">树莓派实验室</a></li>
-                    <li><a target="_blank" href="https://talk.quwj.com">趣小组</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a target="_blank" href="https://make.quwj.com/project/10">Pi Dashboard</a></li>
-                            <li><a target="_blank" href="https://github.com/spoonysonny/pi-dashboard">GitHub Source</a></li>
+                            <li><a target="_blank" href="https://blog.xsaistudio.cn">Blog</a></li>
+                            <li><a target="_blank" href="https://github.com/shengxi-rise/NanoPi-dashboard">GitHub Source</a></li>
                         </ul>
                     </li>
                 </ul>
